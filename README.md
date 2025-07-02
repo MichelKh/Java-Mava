@@ -1,12 +1,12 @@
 # Letter Frequencies: Parallel and Sequential Letter Counter in Java
 
-Prepared by:
-Abdallah GHANEM
-Elias ISHAK
-Michel KHOURY (Aegon I in the recording)
+## Prepared by:
+### Abdallah GHANEM
+### Elias ISHAK
+### Michel KHOURY (Aegon I in the recording)
 
-Drive link of the recoring:
-https://drive.google.com/file/d/1l8u-F1qtxxAmVAcCtzjtH6-0Ejx7IFz5/view?usp=drive_link
+### Drive link of the recoring:
+### https://drive.google.com/file/d/1l8u-F1qtxxAmVAcCtzjtH6-0Ejx7IFz5/view?usp=drive_link
 
 
 
