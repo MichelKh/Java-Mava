@@ -44,17 +44,17 @@ javac *.java
 
 ### Run Sequential Version
 ```bash
-java com.cutajarjames.multithreading.letterfrequencies.LetterCounterSingleThread
+java LetterCounterSingleThread.java
 ```
 
 ### Run Parallel Version (Synchronized)
 ```bash
-java com.cutajarjames.multithreading.letterfrequencies.LetterCounter
+java LetterCounter.java
 ```
 
 ### Run Parallel Version (Atomic)
 ```bash
-java com.cutajarjames.multithreading.atomic.AtomicLetterCounter
+java AtomicLetterCounter.java
 ```
 
 
@@ -78,9 +78,6 @@ docker run --rm multi-java-app
 ## Notes
 - The parallel versions demonstrate different synchronization strategies: explicit locks vs. atomic variables.
 - Network I/O may affect timing; for pure CPU-bound tests, use local files.
-
-## License
-This project is for educational purposes.
 
 ## Comparison of Implementations
 
