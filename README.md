@@ -44,17 +44,17 @@ javac *.java
 
 ### Run Sequential Version
 ```bash
-java LetterCounterSingleThread.java
+java com.cutajarjames.multithreading.letterfrequencies.LetterCounterSingleThread
 ```
 
 ### Run Parallel Version (Synchronized)
 ```bash
-java LetterCounter.java
+java com.cutajarjames.multithreading.letterfrequencies.LetterCounter
 ```
 
 ### Run Parallel Version (Atomic)
 ```bash
-java AtomicLetterCounter.java
+java com.cutajarjames.multithreading.atomic.AtomicLetterCounter
 ```
 
 
