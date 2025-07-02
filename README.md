@@ -1,5 +1,15 @@
 # Letter Frequencies: Parallel and Sequential Letter Counter in Java
 
+Prepared by:
+Abdallah GHANEM
+Elias ISHAK
+Michel KHOURY (Aegon I in the recording)
+
+Drive link of the recoring:
+https://drive.google.com/file/d/1l8u-F1qtxxAmVAcCtzjtH6-0Ejx7IFz5/view?usp=drive_link
+
+
+
 ## Overview
 This project demonstrates sequential and parallel approaches to counting letter frequencies in large text files using Java. It is designed as a practical exercise in concurrent and parallel programming, showcasing the performance benefits and challenges of multithreading.
 
