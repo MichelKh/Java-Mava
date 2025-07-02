@@ -57,6 +57,15 @@ java com.cutajarjames.multithreading.letterfrequencies.LetterCounter
 java com.cutajarjames.multithreading.atomic.AtomicLetterCounter
 ```
 
+
+### Docker
+To build and run with docker, run the following bash command:
+```bash
+docker build -t multi-java-app .
+docker run --rm multi-java-app
+```
+
+
 ## Performance Testing
 - The output includes the total time taken for each run.
 - Compare the sequential and parallel versions to observe speed-up.
